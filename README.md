@@ -15,3 +15,8 @@ https://murakami-shogo-portfolio.vercel.app/
 - 村上 彰悟, 杉山 誠治, 梶原 智之, 荒瀬 由紀.  
   第二言語学習者の単語習熟度の変化を考慮した誤り予測  
   人工知能学会第40回全国大会 (JSAI2026), June 2026.
+
+### 国際会議（査読あり）
+- Shogo Murakami, Seiji Sugiyama, Tomoyuki Kajiwara, Yuki Arase.  
+  Learner Error Prediction based on Progression of L2 Vocabulary Proficiency  
+  In Proceedings of the 40th Pacific Asia Conference on Language, Information and Computation (PACLIC40), Taipei, Taiwan, December 2026. (to appear)
